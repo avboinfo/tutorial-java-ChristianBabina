@@ -30,6 +30,6 @@ public class Nodo {
     }
 
     public String toString() {
-        return "Io sono un nodo che vale " + valore;
+        return "[" + valore + "]";
     }
 }
